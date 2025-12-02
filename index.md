@@ -1,3 +1,13 @@
+<!--
+ * @Author: 周方铭 zhoufangming@bytedance.com
+ * @Date: 2025-11-30 19:19:22
+ * @LastEditors: 周方铭 zhoufangming@bytedance.com
+ * @LastEditTime: 2025-12-02 15:09:19
+ * @FilePath: /FangmingZhou.github.io/index.md
+ * @Description: 
+ * 
+ * Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
+-->
 ---
 layout: default
 title: Fangming Zhou
@@ -12,7 +22,7 @@ title: Fangming Zhou
 <br><br><br>
 
 
-Machine Learning Engineer of TikTok Search
+Machine Learning Engineer @ TikTok Search
 
 Email: fangmingzhou.cs AT gmail.com
 
@@ -25,7 +35,7 @@ Email: fangmingzhou.cs AT gmail.com
 To be added
 
 
-## News
+### News
 - **2025.12** I will join ByteDance Seed as a LLM Researcher.
 
 - **2025.05** Our paper "Audio-Enhanced Vision-Language Modeling with Latent Space Broadening for High Quality Data Expansion" is accepted by KDD 2025.
@@ -53,9 +63,9 @@ To be added
 
 - Xirong Li, **Fangming Zhou**, Chaoxi Xu, Jiaqi Ji, Gang Yang. SEA: Sentence Encoder Assembly for Video Retrieval by Textual Queries. IEEE Transactions on Multimedia (TMM), 2021 [[paper](https://arxiv.org/pdf/2011.12091)]
 
-## Skill
+### Skill
 To be added.
 
-## Awards and Honors
+### Awards and Honors
 To be added.
 

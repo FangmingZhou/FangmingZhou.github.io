@@ -12,9 +12,9 @@ title: Fangming Zhou
 <br><br><br>
 
 
-NLP Engineer of Tiktok Search
+Machine Learning Engineer of Tiktok Search
 
-Email: fangming.zhou AT outlook.com
+Email: fangming.zhou.cs AT gmail.com
 
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=oag4e-sAAAAJ)]
 [[LinkedIn](https://www.linkedin.com/in/fangmingzhou/)]
@@ -28,7 +28,7 @@ TBD
 
 
 ### Career
-- 2022.04-present, NLP Engineer, ByteDance Search
+- 2022.04-present, NLP Engineer, Tiktok Search
 
 - 2021.04-2021.07, Intern, Kuaishou MMU 
 

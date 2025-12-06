@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fangming Zhou
+last_modified_at:
 ---
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; display: flex; align-items: flex-end;">
@@ -9,9 +10,9 @@ title: Fangming Zhou
 
 # Fangming Zhou (周方铭)
 
-<br>
-Machine Learning Engineer  
-TikTok Search  
+<br> 
+NLP Engineer  
+TikTok Search, Beijing  
 Email: fangmingzhou.cs AT gmail.com  
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=oag4e-sAAAAJ)]
 [[LinkedIn](https://www.linkedin.com/in/fangmingzhou/)]
@@ -19,21 +20,21 @@ Email: fangmingzhou.cs AT gmail.com
 <br>
 
 ### Biography
-I am a Machine Learning Engineer specializing in the application of multimodal technologies within TikTok Search. My core professional focus is dedicated to advancing search intelligence through innovations like visual pre-training and integrating multimodal applications across the entire search pipeline.
+I am a NLP Engineer specializing in the application of multimodal technologies within TikTok Search. My core professional focus is dedicated to advancing search intelligence through innovations like visual pre-training and integrating multimodal applications across the entire search pipeline.
 
 Previously, I earned my M.S. in Computer Science from the School of Information, Renmin University of China, in 2022. Under the guidance of [Prof. Xirong Li](https://li-xirong.github.io/), my thesis research was concentrated on cross-modal retrieval, encompassing key areas such as modal alignment and cross-modal representation learning.
 
 
 ### News
-<!-- - **2025.12 >>** I will join ByteDance Seed as a LLM Researcher. -->
+- **2025.12 >>** I will join ByteDance Seed as a LLM Researcher.
 
 - **2025.05 >>** Our paper "Audio-Enhanced Vision-Language Modeling with Latent Space Broadening for High Quality Data Expansion" is accepted by KDD 2025.
 
 
 ### Professional Experience
-* **Machine Learning Engineer** |@ TikTok Search
+* **NLP Engineer** |@ TikTok Search
     * *April 2022 – Present*
-* **Intern** |@ Kuaishou MMU (Multimodal Understanding)
+* **Research Intern** |@ Kuaishou MMU
     * *April 2021 – July 2021*
 
 ### Education
@@ -57,4 +58,18 @@ Previously, I earned my M.S. in Computer Science from the School of Information,
 
 <!-- ### Awards and Honors
 To be added. -->
+<br>
+<footer class="page-footer">
+  <div class="last-updated-block">
+    <i class="fas fa-clock"></i> 
+    <span class="update-label">Last updated:</span>
+    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+      {% if page.last_modified_at %}
+        {{ page.last_modified_at | date: "%B %d, %Y" }}
+      {% else %}
+        {{ page.date | date: "%B %d, %Y" }}
+      {% endif %}
+    </time>
+  </div>
+</footer>
 

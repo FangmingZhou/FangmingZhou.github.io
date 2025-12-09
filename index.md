@@ -1,13 +1,3 @@
-<!--
- * @Author: 周方铭 zhoufangming@bytedance.com
- * @Date: 2025-11-30 19:19:22
- * @LastEditors: 周方铭 zhoufangming@bytedance.com
- * @LastEditTime: 2025-12-09 14:51:14
- * @FilePath: /FangmingZhou.github.io/index.md
- * @Description: 
- * 
- * Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
--->
 ---
 layout: default
 title: Fangming Zhou
@@ -68,7 +58,7 @@ Previously, I earned my M.S. in Computer Science from the School of Information,
 
 <!-- ### Awards and Honors
 To be added. -->
-<br>
+<!-- <br>
 <footer class="page-footer">
   <div class="last-updated-block">
     <i class="fas fa-clock"></i> 
@@ -82,4 +72,4 @@ To be added. -->
     </time>
   </div>
 </footer>
-
+ -->

@@ -1,3 +1,13 @@
+<!--
+ * @Author: 周方铭 zhoufangming@bytedance.com
+ * @Date: 2025-11-30 19:19:22
+ * @LastEditors: 周方铭 zhoufangming@bytedance.com
+ * @LastEditTime: 2025-12-09 14:51:14
+ * @FilePath: /FangmingZhou.github.io/index.md
+ * @Description: 
+ * 
+ * Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
+-->
 ---
 layout: default
 title: Fangming Zhou
@@ -26,7 +36,7 @@ Previously, I earned my M.S. in Computer Science from the School of Information,
 
 
 ### News
-- **2025.12 >>** I will join ByteDance Seed as a LLM Researcher.
+<!-- - **2025.12 >>** I will join ByteDance Seed as a LLM Researcher. -->
 
 - **2025.05 >>** Our paper "Audio-Enhanced Vision-Language Modeling with Latent Space Broadening for High Quality Data Expansion" is accepted by KDD 2025.
 

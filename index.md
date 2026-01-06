@@ -26,9 +26,9 @@ Previously, I earned my M.S. in Computer Science from the School of Information,
 
 
 ### News
-<!-- - **2025.12 >>** I will join ByteDance Seed as a LLM Researcher. -->
+- **2026.01 >>** I will join ByteDance Seed as a LLM Researcher!
 
-- **2025.05 >>** Our paper "Audio-Enhanced Vision-Language Modeling with Latent Space Broadening for High Quality Data Expansion" is accepted by KDD 2025.
+- **2025.05 >>** Our paper "Audio-Enhanced Vision-Language Modeling with Latent Space Broadening for High Quality Data Expansion" is accepted by KDD 2025!
 
 
 ### Professional Experience

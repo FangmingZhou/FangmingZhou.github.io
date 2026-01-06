@@ -32,8 +32,10 @@ Previously, I earned my M.S. in Computer Science from the School of Information,
 
 
 ### Professional Experience
+* **LLM Researcher** |@ Bytedance Seed
+    * *Jan 2026 – Present*
 * **NLP Engineer** |@ TikTok Search
-    * *April 2022 – Present*
+    * *April 2022 – Jan 2026*
 * **Research Intern** |@ Kuaishou MMU
     * *April 2021 – July 2021*
 

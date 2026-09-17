@@ -11,9 +11,9 @@ last_modified_at:
 # Fangming Zhou (周方铭)
 
 <br> 
-NLP Engineer  
-TikTok Search, Beijing  
-Email: fangmingzhou.cs AT gmail.com  
+LLM Researcher  
+ByteDance Seed, Beijing  
+Email: fangming.zhou.cs AT gmail.com  
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=oag4e-sAAAAJ)]
 [[LinkedIn](https://www.linkedin.com/in/fangmingzhou/)]
 
